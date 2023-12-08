@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://tanya2753.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 15:04:03 +0300</lastBuildDate><atom:link href="http://tanya2753.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что приготовить на ужин?</title>
+      <link>http://tanya2753.github.io/post/my-first-post/</link>
+      <pubDate>Fri, 24 Nov 2023 15:04:03 +0300</pubDate>
+      
+      <guid>http://tanya2753.github.io/post/my-first-post/</guid>
+      <description>&amp;ldquo;невидимый&amp;rdquo; яблочный пирог на ряженке Этот простейший пирог, как из кирпичиков, построен из тонко-тонко нарезанных яблок. А вкусное тесто на ряженке и яйцах удерживает ломтики вместе и не даёт пирогу развалиться. Для аромата в тесто вливается немного коньяка, хотя можно и без алкоголя. Теста настолько мало, что его почти не видно - отсюда и название.
+Рагу из говядины с копчёными колбасками, в томатном соусе Яркое и ароматное рагу из говядины с копчёными колбасками, в томатном соусе.</description>
+    </item>
+    
+  </channel>
+</rss>
